@@ -1,9 +1,9 @@
 The file 'Summer.ipynb' contains an exploratory data Analysis of the Summer Olympics Assignment by ETG AIML Internship.
 It has answers to all the questions as given by assignment.
 The whole assignment has been done by:
-NumPy
-Pandas
-Matplotlib
+NumPy,
+Pandas,
+Matplotlib.
 Questions are :-
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5)
